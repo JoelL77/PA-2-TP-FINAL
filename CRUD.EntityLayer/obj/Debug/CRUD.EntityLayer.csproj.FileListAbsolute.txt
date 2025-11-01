@@ -1,0 +1,6 @@
+G:\tp\tp-principal\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+G:\tp\tp-principal\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+G:\tp\tp-principal\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.AssemblyReference.cache
+G:\tp\tp-principal\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+G:\tp\tp-principal\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+G:\tp\tp-principal\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb

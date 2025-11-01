@@ -1,0 +1,9 @@
+G:\tp\tp-principal\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.AssemblyReference.cache
+G:\tp\tp-principal\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.CoreCompileInputs.cache
+G:\tp\tp-principal\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.dll
+G:\tp\tp-principal\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.pdb
+G:\tp\tp-principal\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.dll
+G:\tp\tp-principal\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.pdb
+G:\tp\tp-principal\CRUD.DataLayer\obj\Debug\CRUD.Dat.DD8C681B.Up2Date
+G:\tp\tp-principal\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.dll
+G:\tp\tp-principal\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.pdb

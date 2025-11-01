@@ -1,0 +1,11 @@
+G:\tp\tp-principal\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+G:\tp\tp-principal\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+G:\tp\tp-principal\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.dll
+G:\tp\tp-principal\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.pdb
+G:\tp\tp-principal\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.dll
+G:\tp\tp-principal\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.dll
+G:\tp\tp-principal\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.pdb
+G:\tp\tp-principal\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.pdb
+G:\tp\tp-principal\CRUD.BusinessLayer\obj\Debug\CRUD.Bus.ED2F5D0F.Up2Date
+G:\tp\tp-principal\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.dll
+G:\tp\tp-principal\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.pdb
